@@ -1,0 +1,45 @@
+CLB    3  CHV    0
+DAL    1  COL    0
+HOU    2  DC     0
+LA     4  CHI    0
+MTL    1  SEA    0
+NE     BYE
+NY     3  POR    3
+RSL    2  SJ     0
+SKC    3  PHI    1
+VAN    1  TOR    0
+------------------
+CHV    3  DAL    1
+DC     1  RSL    0
+HOU    BYE
+LA     BYE
+MTL    2  POR    1
+NE     1  CHI    0
+PHI    2  COL    1
+SEA    BYE
+SJ     2  NY     1
+TOR    2  SKC    1
+VAN    2  CLB    1
+------------------
+CHI    0  SKC    0
+CHV    1  LA     1
+CLB    1  SJ     1
+COL    1  RSL    1
+DAL    3  HOU    2
+DC     0  NY     0
+MTL    2  TOR    1
+PHI    1  NE     0
+POR    1  SEA    1
+VAN    BYE
+------------------
+CHV    4  CHI    1
+CLB    2  DC     1
+DAL    2  RSL    0
+HOU    2  VAN    1
+LA     1  COL    0
+MTL    1  NY     0
+NE     0  SKC    0
+PHI    BYE
+POR    BYE
+SJ     1  SEA    0
+TOR    BYE

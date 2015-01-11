@@ -1,0 +1,439 @@
+CLB    3  CHV    0
+DAL    1  COL    0
+HOU    2  DC     0
+LA     4  CHI    0
+MTL    1  SEA    0
+NE     BYE
+NY     3  POR    3
+RSL    2  SJ     0
+SKC    3  PHI    1
+VAN    1  TOR    0
+------------------
+CHV    3  DAL    1
+DC     1  RSL    0
+HOU    BYE
+LA     BYE
+MTL    2  POR    1
+NE     1  CHI    0
+PHI    2  COL    1
+SEA    BYE
+SJ     2  NY     1
+TOR    2  SKC    1
+VAN    2  CLB    1
+------------------
+CHI    0  SKC    0
+CHV    1  LA     1
+CLB    1  SJ     1
+COL    1  RSL    1
+DAL    3  HOU    2
+DC     0  NY     0
+MTL    2  TOR    1
+PHI    1  NE     0
+POR    1  SEA    1
+VAN    BYE
+------------------
+CHV    4  CHI    1
+CLB    2  DC     1
+DAL    2  RSL    0
+HOU    2  VAN    1
+LA     1  COL    0
+MTL    1  NY     0
+NE     0  SKC    0
+PHI    BYE
+POR    BYE
+SJ     1  SEA    0
+TOR    BYE
+------------------
+CHI    BYE
+CHV    2  VAN    1
+CLB    BYE
+COL    2  POR    2
+DAL    1  NE     0
+DC     BYE
+HOU    2  SJ     0
+LA     2  TOR    2
+NY     2  PHI    1
+RSL    2  SEA    1
+SKC    2  MTL    0
+------------------
+CHI    3  NY     1
+CHV    BYE
+CLB    1  PHI    1
+COL    1  RSL    0
+DAL    2  TOR    2
+LA     BYE
+MTL    BYE
+NE     BYE
+POR    2  HOU    0
+SEA    BYE
+SJ     1  VAN    1
+SKC    1  DC     0
+------------------
+CLB    1  MTL    1
+COL    1  CHV    0
+DAL    1  LA     0
+HOU    2  CHI    1
+NE     0  SEA    0
+NY     2  DC     0
+PHI    1  TOR    1
+POR    1  SJ     0
+RSL    1  VAN    1
+SKC    BYE
+------------------
+CHI    1  CLB    0
+DAL    2  VAN    0
+HOU    1  TOR    1
+LA     2  SKC    0
+MTL    BYE
+NY     4  NE     1
+PHI    3  DC     2
+POR    BYE
+RSL    1  CHV    0
+SEA    1  COL    0
+SJ     BYE
+SKC    1  NY     0
+------------------
+CHV    2  SJ     2
+CLB    3  DC     0
+COL    1  HOU    1
+DAL    2  VAN    2
+LA     2  RSL    0
+MTL    2  CHI    0
+NE     2  PHI    0
+NY     2  TOR    1
+POR    1  SJ     1
+POR    3  SKC    2
+SEA    BYE
+------------------
+CHI    BYE
+COL    1  TOR    0
+DAL    BYE
+DC     BYE
+HOU    BYE
+LA     BYE
+MTL    2  SJ     2
+NE     0  POR    0
+NY     1  CLB    0
+PHI    2  SEA    2
+RSL    2  VAN    0
+SKC    4  CHV    0
+------------------
+COL    2  CLB    0
+DAL    1  POR    1
+DAL    2  DC     1
+HOU    1  LA     0
+HOU    4  DC     0
+MTL    3  RSL    2
+NE     1  NY     1
+NY     2  MTL    1
+PHI    1  CHI    0
+POR    3  CHV    0
+RSL    2  NE     1
+SEA    1  SKC    0
+SEA    4  SJ     0
+SJ     2  TOR    1
+SKC    1  HOU    0
+VAN    3  LA     1
+------------------
+CLB    1  TOR    0
+COL    1  SJ     1
+DC     1  SKC    1
+LA     4  PHI    1
+MTL    BYE
+NE     2  HOU    0
+NY     1  LA     0
+PHI    1  CHI    0
+POR    2  VAN    2
+RSL    4  CHV    1
+SEA    4  DAL    2
+------------------
+CHI    1  RSL    1
+CLB    2  NY     2
+COL    2  CHV    0
+DAL    1  SJ     0
+HOU    1  SKC    1
+LA     BYE
+MTL    5  PHI    3
+NE     2  TOR    0
+POR    2  DC     0
+SEA    BYE
+VAN    BYE
+------------------
+CHI    2  DC     0
+CLB    1  HOU    1
+COL    2  DAL    2
+LA     4  SEA    0
+MTL    2  SKC    1
+NE     5  LA     0
+PHI    1  TOR    1
+POR    BYE
+RSL    3  SJ     0
+SEA    2  CHV    0
+VAN    2  NY     1
+------------------
+CHI    2  POR    2
+CHV    BYE
+COL    BYE
+DAL    BYE
+DC     0  NE     0
+HOU    BYE
+MTL    BYE
+NY     BYE
+PHI    3  CLB    0
+RSL    3  LA     1
+SEA    3  VAN    2
+SJ     BYE
+SKC    BYE
+TOR    BYE
+------------------
+CHI    BYE
+CHV    BYE
+CLB    2  MTL    0
+HOU    BYE
+LA     BYE
+NY     BYE
+PHI    BYE
+POR    1  DAL    0
+RSL    BYE
+SEA    BYE
+SJ     2  COL    1
+SKC    BYE
+TOR    2  DC     1
+VAN    4  NE     3
+------------------
+CHI    2  CLB    1
+CHI    2  COL    1
+DAL    2  SKC    2
+DC     1  SJ     0
+HOU    0  TOR    0
+LA     0  POR    0
+MTL    2  HOU    0
+NE     BYE
+PHI    3  NY     0
+POR    3  COL    0
+RSL    2  SEA    0
+VAN    3  CHV    1
+------------------
+CHI    BYE
+CHV    1  NE     1
+COL    4  MTL    3
+DAL    2  PHI    2
+LA     1  CHV    0
+NY     2  HOU    0
+POR    BYE
+RSL    1  TOR    0
+SEA    BYE
+SJ     3  LA     2
+SKC    3  CLB    2
+VAN    1  DC     0
+------------------
+CHI    3  SJ     2
+CHV    0  DAL    0
+CHV    1  MTL    1
+CLB    1  POR    0
+COL    0  DC     0
+COL    2  NY     0
+HOU    1  PHI    0
+LA     2  CLB    1
+LA     2  DAL    0
+MTL    3  TOR    3
+NE     2  SJ     0
+PHI    2  RSL    2
+SEA    2  DC     0
+SKC    1  VAN    1
+SKC    2  CHI    1
+VAN    2  SEA    0
+------------------
+CLB    BYE
+COL    BYE
+DC     BYE
+HOU    2  NE     1
+NY     4  MTL    0
+PHI    3  CHV    1
+POR    2  LA     1
+RSL    3  DAL    0
+SJ     1  SEA    0
+SKC    3  TOR    0
+VAN    3  CHI    1
+------------------
+CHI    4  DC     1
+CHV    1  TOR    0
+COL    1  SEA    1
+COL    2  NE     1
+DAL    0  MTL    0
+HOU    BYE
+LA     2  VAN    1
+NE     2  CLB    0
+NY     0  TOR    0
+PHI    0  POR    0
+SJ     BYE
+SKC    2  RSL    1
+------------------
+CHI    1  HOU    1
+CHV    BYE
+COL    2  LA     0
+DAL    BYE
+MTL    1  SKC    0
+NE     2  DC     1
+NY     4  RSL    3
+PHI    1  VAN    0
+SEA    BYE
+SJ     2  POR    1
+TOR    2  CLB    1
+------------------
+CHI    2  PHI    1
+COL    2  RSL    2
+DC     3  MTL    1
+HOU    3  CLB    1
+LA     BYE
+NY     3  SKC    2
+POR    1  VAN    1
+SEA    2  CHV    1
+SEA    3  DAL    0
+SJ     2  CHV    0
+TOR    1  NE     0
+------------------
+CHI    2  MTL    1
+CHV    BYE
+CLB    2  NY     0
+COL    BYE
+DAL    3  LA     3
+PHI    2  DC     0
+POR    BYE
+RSL    1  HOU    0
+SEA    2  TOR    1
+SKC    3  NE     0
+VAN    2  SJ     0
+------------------
+CHV    1  COL    1
+CLB    2  TOR    0
+COL    2  VAN    0
+HOU    3  SEA    1
+LA     4  RSL    2
+MTL    2  DC     1
+NE     2  CHI    0
+NY     0  PHI    0
+POR    2  DAL    1
+SJ     1  SKC    0
+------------------
+CHI    1  SKC    0
+CHV    3  NY     2
+COL    BYE
+DAL    2  SJ     2
+DAL    3  CHV    1
+DC     1  TOR    1
+LA     1  VAN    0
+MTL    5  HOU    0
+NE     5  PHI    1
+POR    3  RSL    3
+RSL    4  CLB    0
+SEA    1  POR    0
+------------------
+CHI    1  HOU    1
+CHV    2  VAN    2
+DAL    BYE
+LA     3  SJ     0
+MTL    0  PHI    0
+NE     1  TOR    1
+NY     2  DC     1
+RSL    4  POR    2
+SEA    1  CLB    0
+SKC    2  COL    1
+------------------
+CHV    1  DC     0
+CLB    2  HOU    0
+COL    1  LA     0
+DAL    3  VAN    1
+MTL    4  NE     2
+NY     4  HOU    1
+PHI    BYE
+POR    4  TOR    0
+RSL    BYE
+SEA    1  CHV    0
+SEA    2  CHI    1
+SJ     BYE
+SKC    3  CLB    0
+------------------
+CHI    1  TOR    1
+CHI    3  NE     2
+CHV    1  POR    1
+CLB    2  MTL    1
+COL    2  DAL    1
+DC     2  LA     2
+HOU    1  PHI    0
+NY     2  TOR    0
+SEA    2  RSL    0
+SJ     0  VAN    0
+SJ     1  PHI    0
+SKC    BYE
+------------------
+CLB    3  CHI    0
+HOU    5  CHV    1
+LA     1  SEA    1
+NE     2  DC     1
+NY     1  DAL    0
+PHI    BYE
+POR    1  COL    0
+SJ     2  RSL    1
+SKC    2  TOR    1
+VAN    3  MTL    0
+------------------
+CHI    2  MTL    2
+CHV    BYE
+CLB    4  DAL    2
+COL    BYE
+HOU    1  NE     1
+NY     1  SEA    1
+PHI    1  SKC    0
+POR    1  LA     0
+RSL    1  VAN    0
+SJ     BYE
+TOR    4  DC     1
+------------------
+CHI    3  DC     0
+COL    5  SEA    1
+DAL    1  RSL    1
+HOU    1  MTL    0
+LA     5  CHV    0
+NE     2  NY     2
+PHI    1  TOR    0
+POR    2  VAN    2
+SJ     1  CHV    0
+SKC    1  CLB    0
+------------------
+CHI    3  DAL    2
+CHV    BYE
+CLB    BYE
+DC     1  PHI    1
+HOU    0  SKC    0
+LA     BYE
+NE     1  MTL    0
+NY     BYE
+POR    1  SEA    0
+RSL    BYE
+SJ     1  COL    0
+TOR    BYE
+VAN    4  SEA    1
+------------------
+CHI    1  TOR    0
+CHV    BYE
+COL    3  VAN    2
+DAL    2  SEA    0
+LA     0  SJ     0
+LA     1  MTL    0
+MTL    2  PHI    1
+NE     3  CLB    2
+NY     3  HOU    0
+POR    0  RSL    0
+SKC    1  DC     0
+------------------
+HOU    2  DC     1
+LA     1  SEA    1
+NE     1  CLB    0
+NY     5  CHI    2
+POR    5  CHV    0
+RSL    2  CHV    1
+SJ     2  DAL    1
+SKC    2  PHI    1
+TOR    1  MTL    0
+VAN    3  COL    0
